@@ -1,4 +1,4 @@
-![grupo5](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/87abc039-2e01-47f7-85ec-a99c1638bc47)
+![GRUPO 5](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/a41bbf4f-bfaf-4217-982e-46cca2822b2e)
 
 ## Integrantes ✒️
 * **Mariela Abrego**
