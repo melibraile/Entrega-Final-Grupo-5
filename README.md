@@ -20,3 +20,15 @@
 <p align="justify">
 
 </p>
+
+## Funcionalidades
+
+<p align="justify">
+
+</p>
+
+## Herramientas utilizadas
+
+<p align="justify">
+
+</p>
