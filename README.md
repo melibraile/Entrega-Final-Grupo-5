@@ -103,7 +103,7 @@ Se describen a continuación las principales features usadas para el análisis
 ## Conclusiones 📉
 
 **Netflix** 
-Utilizamos el modelo de Regresión Linean, ya que nuestro objetivo es predecir cuántas semanas va a estar un título top ten en las diferentes regiones, a partir de los datos históricos que nos brinda la plataforma. Las variables independientes que utilizaremos son "region, "content type","cumulative_weeks_in_top_10" y "genre". La primera es la variable cuantitativa (x) mientras que el resto son el target (y). 
+Utilizamos el modelo de Regresión Lineal, ya que nuestro objetivo es predecir cuántas semanas va a estar un título top ten en las diferentes regiones, a partir de los datos históricos que nos brinda la plataforma. Las variables independientes que utilizaremos son "region, "content type","cumulative_weeks_in_top_10" y "genre". La primera es la variable cuantitativa (x) mientras que el resto son el target (y). 
 El Mean Absolute Error (MAE)nos dió 0.80
 
 
