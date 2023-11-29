@@ -23,7 +23,7 @@ Trabajamos en 2 proyectos:
 * **Netflix**
 En este proyecto trabajamos con datos de la plataforma Netflix. 
 Netflix es un servicio de streaming que ofrece una amplia gama de películas, series y documentales de alta calidad, disponibles en prácticamente cualquier dispositivo conectado a internet.  
-El objetivo del proyecto es predecir cuántas semanas va a estar un título top ten en Netflix en las diferentes regiones, teniendo el cuenta el género, el content type y el tipo de estación a la que pertenecen. 
+El objetivo del proyecto es predecir cuántas semanas va a estar un título top ten en Netflix en las diferentes regiones, teniendo en cuenta el género, el content type y el tipo de estación a la que pertenecen. 
 Para el análisis utilizamos un modelo de aprendizaje supervisado.
   
 * **Fifa** 
@@ -105,6 +105,7 @@ Se describen a continuación las principales features usadas para el análisis
 **Netflix** 
 Utilizamos el modelo de Regresión Lineal, ya que nuestro objetivo es predecir cuántas semanas va a estar un título top ten en las diferentes regiones, a partir de los datos históricos que nos brinda la plataforma. Las variables independientes que utilizaremos son "region, "content type","cumulative_weeks_in_top_10" y "genre". La primera es la variable cuantitativa (x) mientras que el resto son el target (y). 
 El Mean Absolute Error (MAE)nos dió 0.80
+Tmabién se probó el modelo de árbol de decisión esto nos revela las variables más influyentes con menor margen de error. Esta visualización nos permite seleccionar aquellas que explican mejor el modelo, proporcionando información precisa para decisiones basadas en datos más cercanos a la realidad. En la parte superior del árbol, se detallan las variables que maximizan la capacidad del modelo para realizar predicciones precisas.
 
 
 **Fifa** 
