@@ -28,7 +28,7 @@ Para el análisis utilizamos un modelo de aprendizaje supervisado.
   
 * **Fifa** 
 En este proyecto trabajamos sobre datos de Career Mode del videojuego FIFA 15 a FIFA 22. 
-El objetivo del proyecto es agrupar a los jugadores en clusters basados en sus características, como la posición, la puntuación general, la edad, el valor de mercado, etc. Este datos se encuentre en la feature overall.El objetivo es analizar esta variable con el valor de venta en euros de los jugadores y comparar resultados. Se analizará cómo estas variables se relacionan con el valor de venta en euros de los jugadores, con el fin de identificar patrones y tendencias que puedan influir en la valoración y comercialización de los jugadores. Para el análisis utilizamos un modelo de aprendizaje no supervisado
+El objetivo del proyecto es agrupar a los jugadores en clusters basados en sus características, como la posición, la puntuación general, la edad, el valor de mercado, etc. Este dato se encuentre en la feature overall.El objetivo es analizar esta variable con el valor de venta en euros de los jugadores y comparar resultados. Se analizará cómo estas variables se relacionan con el valor de venta en euros de los jugadores, con el fin de identificar patrones y tendencias que puedan influir en la valoración y comercialización de los jugadores. Para el análisis utilizamos un modelo de aprendizaje no supervisado
 </p>
 
 <div id='id2' />
