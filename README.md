@@ -1,18 +1,12 @@
 ![GRUPO 5](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/862f0410-efd5-424b-8208-00de09ab1a72)
-## Integrantes ✒️
+## Integrantes 👩‍💻
 * **Mariela Abrego**
 * **Melisa Braile** 
 * **Tania Damiani**
 * **Mariana Grau**
 * **Micaela Melian**
 
-## Contenido
-1. [Descripción del proyecto](#descrip-proy)
-2. [Datasets](#datasets)
-3. [Herramientas](#herramientas_uti)
-4. [Conclusiones](#conclusiones)
-
-**Índice**
+## Contenido ✒️
 1. [Descripción del proyecto](#id1)
 2. [Datasets](#id2)
 3. [Herramientas](#id3)
@@ -91,7 +85,7 @@ Se describen a continuación las principales features usadas para el análisis
 
 <div id='id3' />
   
-## Herramientas 
+## Herramientas 🛠️
 
 <p align="justify">
   
@@ -106,7 +100,7 @@ Se describen a continuación las principales features usadas para el análisis
 
 <div id='id4' />
   
-## Conclusiones 
+## Conclusiones 📉
 
 
 
