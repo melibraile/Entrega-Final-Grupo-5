@@ -6,14 +6,6 @@
 * **Mariana Grau**
 * **Micaela Melian**
 
-### Índice
-
-- [Descripción del proyecto](#descrição-do-projeto)
-
-- [Funcionalidades](#funcionalidades)
-
-- [Herramientas Utilizadas](#ferramentas-utilizadas)
-
 
 ## Descripción del proyecto
 
