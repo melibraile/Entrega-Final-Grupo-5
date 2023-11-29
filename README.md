@@ -9,7 +9,7 @@
 ## Contenido
 1. [Descripción del proyecto](#descrip-proy)
 2. [Datasets](#datasets)
-3. [Herramientas utilizadas](#herram)
+3. [Herramientas](#herramientas_uti)
 4. [Conclusiones](#conclusiones)
 
 
@@ -79,7 +79,7 @@ Se describen a continuación las principales features usadas para el análisis
 
 </p>
 
-## Herramientas utilizadas 
+## Herramientas 
 
 <p align="justify">
   
