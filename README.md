@@ -76,7 +76,18 @@ Se describen a continuación las principales features usadas para el análisis
 ## Herramientas utilizadas 
 
 <p align="justify">
-  ![Jupyter_logo](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/2459af6b-ffe0-4709-9eeb-fb78dce39375)  Jupiter Notebook
-Panda 
-Numpy
+  
+![Jupyter_logo](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/362b39c6-b196-45e4-9d06-e104dd323b8e)   ![python-Centro-REDES](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/5ed31d48-cea5-4b10-b4ae-e896d22cb05c)
+
+
+
+![Pandas_logo](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/ebccefc1-38a5-4109-8507-df8e449c368d)   ![illu_numpy_blog-125](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/5a333727-2f71-4297-9b42-92a40f60ce16)
+
+
+![matplotlib](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/be7cb2f9-94d4-4039-96f7-37271dae69c9)    ![seaborn](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/e51bd558-90fd-4314-b7bd-78fb38e7eca3)
+
+
+
+
+
 </p>
