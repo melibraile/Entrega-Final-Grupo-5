@@ -104,8 +104,9 @@ Se describen a continuación las principales features usadas para el análisis
 
 **Netflix** 
 Utilizamos el modelo de Regresión Lineal, ya que nuestro objetivo es predecir cuántas semanas va a estar un título top ten en las diferentes regiones, a partir de los datos históricos que nos brinda la plataforma. Las variables independientes que utilizaremos son "region, "content type","cumulative_weeks_in_top_10" y "genre". La primera es la variable cuantitativa (x) mientras que el resto son el target (y). 
-El Mean Absolute Error (MAE)nos dió 0.80
-Tmabién se probó el modelo de árbol de decisión esto nos revela las variables más influyentes con menor margen de error. Esta visualización nos permite seleccionar aquellas que explican mejor el modelo, proporcionando información precisa para decisiones basadas en datos más cercanos a la realidad. En la parte superior del árbol, se detallan las variables que maximizan la capacidad del modelo para realizar predicciones precisas.
+El Mean Absolute Error (MAE)nos dió 0.80.
+
+También se probó el modelo de árbol de decisión esto nos revela las variables más influyentes con menor margen de error. Esta visualización nos permite seleccionar aquellas que explican mejor el modelo, proporcionando información precisa para decisiones basadas en datos más cercanos a la realidad. En la parte superior del árbol, se detallan las variables que maximizan la capacidad del modelo para realizar predicciones precisas.
 
 
 **Fifa** 
