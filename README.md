@@ -12,7 +12,15 @@
 3. [Herramientas](#herramientas_uti)
 4. [Conclusiones](#conclusiones)
 
+**Índice**
+1. [Descripción del proyecto](#id1)
+2. [Datasets](#id2)
+3. [Herramientas](#id3)
+4. [Conclusiones](#id4)
 
+
+<div id='id1' />
+  
 ## Descripción del proyecto  📌
 
 <p align="justify">
@@ -29,6 +37,8 @@ En este proyecto trabajamos sobre datos de Career Mode del videojuego FIFA 15 a 
 El objetivo del proyecto es agrupar a los jugadores en clusters basados en sus características, como la posición, la puntuación general, la edad, el valor de mercado, etc. Este datos se encuentre en la feature overall.El objetivo es analizar esta variable con el valor de venta en euros de los jugadores y comparar resultados. Se analizará cómo estas variables se relacionan con el valor de venta en euros de los jugadores, con el fin de identificar patrones y tendencias que puedan influir en la valoración y comercialización de los jugadores. Para el análisis utilizamos un modelo de aprendizaje no supervisado
 </p>
 
+<div id='id2' />
+  
 ## Datasets 📄
 
 <p align="justify">
@@ -79,6 +89,8 @@ Se describen a continuación las principales features usadas para el análisis
 
 </p>
 
+<div id='id3' />
+  
 ## Herramientas 
 
 <p align="justify">
@@ -92,6 +104,8 @@ Se describen a continuación las principales features usadas para el análisis
 
 ![matplotlib](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/be7cb2f9-94d4-4039-96f7-37271dae69c9)    ![seaborn](https://github.com/melibraile/Entrega-Final-Grupo-5/assets/140036213/e51bd558-90fd-4314-b7bd-78fb38e7eca3)
 
+<div id='id4' />
+  
 ## Conclusiones 
 
 
