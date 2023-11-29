@@ -102,6 +102,7 @@ Se describen a continuación las principales features usadas para el análisis
   
 ## Conclusiones 📉
 
-
+**Fifa** 
+Utilizamos modelo KMEANS. Este modelo nos permitió agrupar a los jugadores según el overall, es decir, el desempeño que tienen los mismos y su valor económico establecido en el mercado. Los que tienen un rendimiento mayor tienen un valor de transferencia mayor.
 
 </p>
