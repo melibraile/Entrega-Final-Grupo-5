@@ -22,7 +22,7 @@ Trabajamos en 2 proyectos:
   
 * **Netflix**
 En este proyecto trabajamos con datos de la plataforma Netflix. 
-Netflix es un servicio de streaming que te ofrece una amplia gama de películas, series y documentales de alta calidad, disponibles en prácticamente cualquier dispositivo conectado a internet.  
+Netflix es un servicio de streaming que ofrece una amplia gama de películas, series y documentales de alta calidad, disponibles en prácticamente cualquier dispositivo conectado a internet.  
 El objetivo del proyecto es predecir cuántas semanas va a estar un título top ten en Netflix en las diferentes regiones, teniendo el cuenta el género, el content type y el tipo de estación a la que pertenecen. 
 Para el análisis utilizamos un modelo de aprendizaje supervisado.
   
